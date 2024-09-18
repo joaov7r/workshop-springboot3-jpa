@@ -1,5 +1,7 @@
 # Workshop SpringBoot + JPA
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaov7r/workshop-springboot3-jpa/blob/main/LICENSE) 
+
 # Sobre o projeto
 
 O workshop-springboot3-jpa é uma aplicação web desenvolvida como parte de um workshop de Spring Boot, com foco na implementação de APIs RESTful usando JPA e Hibernate para persistência de dados. O projeto está hospedado no Heroku e utiliza PostgreSQL como banco de dados em produção.
