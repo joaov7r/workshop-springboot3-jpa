@@ -9,6 +9,7 @@ import com.projectspring.course.repositories.CategoryRepository;
 
 @Service
 public class CategoryService {
+	
 	@Autowired
 	private CategoryRepository repository;
 
